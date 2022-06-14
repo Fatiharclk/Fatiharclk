@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome my World <img src="https://cdn-icons.flaticon.com/png/512/2072/premium/2072299.png?token=exp=1655230054~hmac=62eab3cf375c179b6f1b9831047f475f" width="32" /></h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome my World <img src="https://cdn-icons.flaticon.com/png/512/2072/premium/2072299.png?token=exp=1655230054~hmac=62eab3cf375c179b6f1b9831047f475f" width="28" /></h1>
 
 
 <p>Welcome to my page! </br> I'm Fatih, Frontend developer from Turkey <img src="https://cdn-icons.flaticon.com/png/512/5111/premium/5111548.png?token=exp=1655229924~hmac=733872753c44c18a4812b42e6b752c27" width="13"/> 
